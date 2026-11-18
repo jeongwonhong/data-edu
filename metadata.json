@@ -1,0 +1,6 @@
+{
+  "name": "생성형 AI 활용 데이터 관리 실무 교육 워크북",
+  "description": "군 및 공공기관 실무자를 위한 6시간 생성형 AI 데이터 관리 실습 및 프롬프트 가이드 워크북",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
